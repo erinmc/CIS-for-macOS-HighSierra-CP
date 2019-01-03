@@ -164,6 +164,7 @@ The following Configuration profiles are available in mobileconfig and plist for
 * 6.1.2 Disable "Show password hints" 
 * 6.1.3 Disable guest account 
 ### CIS 10.13 Restrictions mobileconfig
+* 2.6.8 Disable sending diagnostic and usage data to Apple
 * 2.7.2 iCloud keychain (Not Scored)
 * 2.7.3 iCloud Drive (Not Scored)
 * 2.7.4 iCloud Drive Document sync
